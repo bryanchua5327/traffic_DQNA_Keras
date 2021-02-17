@@ -1,0 +1,10 @@
+episode - 0, total waiting time - 842455, static waiting time - 338798 
+episode - 1, total waiting time - 792333, static waiting time - 338798 
+episode - 0, total waiting time - 591197, static waiting time - 338798 
+episode - 1, total waiting time - 626900, static waiting time - 338798 
+episode - 2, total waiting time - 579542, static waiting time - 338798 
+episode - 3, total waiting time - 590815, static waiting time - 338798 
+episode - 0, total waiting time - 641981, static waiting time - 338798 
+episode - 1, total waiting time - 466885, static waiting time - 338798 
+episode - 2, total waiting time - 550665, static waiting time - 338798 
+episode - 3, total waiting time - 555973, static waiting time - 338798 
